@@ -16,6 +16,7 @@ The following machine learning models were used to predict high credit card risk
 ## Results
 Here are the accuracy, precision, sensitivity and specificity scores:
 | Model | Accuracy | Precision | Sensitivity | Specificity |
+| :---: | :---: | :---: | :---: | :---: |
 | Naive | 0.64 | 0.01 | 0.71 | 0.58 |
 | SMOTE | 0.66 | 0.01 | 0.63 | 0.68 |
 | Cluster | 0.52 | 0.01 | 0.69 | 0.40 |
